@@ -1,6 +1,8 @@
 agk_skin_mod Plugin for be_style Addon for REDAXO 4
 ===================================================
 
+Small style changes for REDAXO agk_skin Plugin.
+
 Features
 --------
 
