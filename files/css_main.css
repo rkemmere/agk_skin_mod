@@ -49,3 +49,15 @@ div.rex-form div.rex-form-row {
     padding: 7px 0;
 }
 
+/* ------------------------------------------------------------------ */
+/* Hide Rex Vars in System Setup                                      */
+/* ------------------------------------------------------------------ */
+
+div#rex-form-system-setup p span.rex-form-notice {
+	display: none;
+}
+
+div#rex-form-system-setup div.rex-form-row {
+	margin-bottom: 7px;
+}
+
