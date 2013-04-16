@@ -10,6 +10,7 @@ Features
 * JQuery UI Aristo Theme style for input fields and textareas
 * Full width template and module textareas
 * More row padding for forms
+* Hidden REX vars in system page
 
 Installation
 ------------
