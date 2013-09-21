@@ -65,7 +65,8 @@ div#rex-form-system-setup div.rex-form-row {
 /* Hide article name field in metadata page of article                */
 /* ------------------------------------------------------------------ */
 
-#rex-form-content-metamode .rex-form-row:first-child { 
-	display: none; 
+#rex-form-meta-article-name, 
+label[for="rex-form-meta-article-name"] { 
+	display: none !important; 
 } 
 
