@@ -11,7 +11,6 @@ Features
 * Full width template and module textareas
 * More row padding for forms
 * Hidden REX vars in system page
-* Hidden article name field in metadata page of article
 
 Installation
 ------------

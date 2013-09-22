@@ -61,12 +61,4 @@ div#rex-form-system-setup div.rex-form-row {
 	margin-bottom: 7px;
 }
 
-/* ------------------------------------------------------------------ */
-/* Hide article name field in metadata page of article                */
-/* ------------------------------------------------------------------ */
-
-#rex-form-meta-article-name, 
-label[for="rex-form-meta-article-name"] { 
-	display: none !important; 
-} 
 
